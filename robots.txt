@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aokoobaigi.co2sum.com/sitemap.xml
